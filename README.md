@@ -1,12 +1,10 @@
 # VidTube Project
 
-VidTube is a full-stack video-sharing platform with both web and Android clients, powered by a Node.js server and a C++ recommendation algorithm. The project is built across four interconnected repositories, each serving a unique function in the system architecture.
+VidTube is a full-stack video-sharing platform with both web and Android clients, powered by a Node.js server and a C++ recommendation algorithm. The project is built across four interconnected **[repositories](#repositories)**, each serving a unique function in the system architecture.
 
 ## Project Overview
 
 This project is designed to provide a seamless video-streaming experience with recommendations based on a custom algorithm. The system integrates multiple components to serve both web and Android platforms.
-
-**[Repositories](#repositories)**
 
 ## Repositories
 
