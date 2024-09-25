@@ -48,17 +48,4 @@ The system is designed with a **client-server architecture**, where the web and 
 
 ## API Documentation
 
-The API enables communication between the client and server for video management, user authentication, and recommendations. Below are some of the key endpoints:
-
-### 1. User Authentication
-- **Login**: `POST /auth/login`
-- **Register**: `POST /auth/register`
-
-### 2. Video Management
-- **Get Video**: `GET /videos/:id`
-- **Upload Video**: `POST /videos`
-
-### 3. Recommendation System
-- **Get Recommendations**: `POST /recommendations`
-
-Full API documentation is available [here](link-to-api-documentation).
+The API documentation can be found [here](api-docs.md).
