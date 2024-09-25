@@ -30,7 +30,7 @@ The project is split into four main repositories, each handling a different part
 
 The system is designed with a **client-server architecture**, where the web and Android clients interact with the Node.js backend. The C++ server is responsible for providing video recommendations, and it communicates with the Node.js server to retrieve and update data.
 
-![Architecture Diagram](images/)
+![Architecture Diagram](images/vidtube-architecture-diagram.png)
 
 ## Technologies Used
 
